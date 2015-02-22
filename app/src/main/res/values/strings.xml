@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Leaf Monitor</string>
+
+    <string name="parse_app_id">## enter parse.com app id here ##</string>
+    <string name="parse_app_key">## enter parse.com app key here ##</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
